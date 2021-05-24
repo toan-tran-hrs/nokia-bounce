@@ -1,0 +1,8 @@
+MIDlet-1: Bounce,/icons/icon.png,com.nokia.mid.appl.boun.Bounce
+MIDlet-Jar-Size: 59629
+MIDlet-Jar-URL: Ball.jar
+MIDlet-Name: Ball
+MIDlet-Vendor: Vendor
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.0
+MicroEdition-Profile: MIDP-1.0
