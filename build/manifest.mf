@@ -1,6 +1,0 @@
-MIDlet-1: Bounce,/icons/icon.png,com.nokia.mid.appl.boun.Bounce
-MIDlet-Vendor: Vendor
-MIDlet-Version: 1.0
-MIDlet-Name: Ball
-MicroEdition-Configuration: CLDC-1.0
-MicroEdition-Profile: MIDP-1.0
